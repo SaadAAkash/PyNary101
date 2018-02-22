@@ -88,7 +88,7 @@ Topics
 * Tags, Styles and Formatting
 * Canvus, colors and images
 * 	- You are the CSS to my HTML, gaarl! 
-	- Give me a </br>, boii.
+	- Give me a "</br>", boii.
 * 	Code your website
 * 	Watch and share your website works live on Nerd Community
 
@@ -97,8 +97,8 @@ Topics
 Topics
 ------
 
-* -You're so pretty! 
-  - No it's just CSS.
+*  - You're so pretty! 
+   - No it's just CSS.
 * CSS : Creating Styling Since....
 * CSS colors, texts, fonts, icons, images and what not
 * Beautify your own website
