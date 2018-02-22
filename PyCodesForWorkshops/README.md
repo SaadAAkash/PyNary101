@@ -28,9 +28,24 @@ Say Something I'm giving up on you!
 
 ## Day2: How did the unsinkable Titanic sink - The Logic
 
+Topics
+------
+
+*
+ 
 ## Day3: Stuck in the Loop - The Ring
 
+Topics
+------
+
+*
+
 ## Day4:  Gotta catch 'em all - The Pokemon
+
+Topics
+------
+
+*
 
 ![Example Image][2]
 
@@ -38,9 +53,24 @@ Say Something I'm giving up on you!
 
 ## Day5: How To Meet Ladies - The HTML
 
+Topics
+------
+
+*
+
 ## Day6: Beaut Element - The CSS
 
+Topics
+------
+
+*
+
 ## Day7: Functions & Dictionaries - The Oracle
+
+Topics
+------
+
+*
 
 ![Example Image][3]
 
