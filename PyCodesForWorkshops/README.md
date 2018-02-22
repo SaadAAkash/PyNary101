@@ -65,7 +65,7 @@ Topics
 ------
 
 * Libraries and graphics
-* Drwa your spirit emoji
+* Draw your spirit emoji
 * Let's code the Squirtle
 * Wartortle goes round and round
 * Circles, dots and colors
