@@ -31,21 +31,49 @@ Say Something I'm giving up on you!
 Topics
 ------
 
-*
- 
+* IDE: What are those?
+* Data Types
+* Operators
+* Logic: Not the Rapper one
+* Branching: Not the tree one
+* If jodi is hoy, but kintu what ki?
+* Introduction to Problem solving
+
+Assignment
+-------
+Be the Logical Sheldon Cooper!
+
 ## Day3: Stuck in the Loop - The Ring
 
 Topics
 ------
 
-*
+* White While
+* For Forever
+* List exists
+* Put a loop in a loop so that you can loop while you loop
+* No strings attached
+* I'm just a fruit loop in a world full of cheerios
+
+Assignment
+-------
+The dooms door game!
 
 ## Day4:  Gotta catch 'em all - The Pokemon
 
 Topics
 ------
 
-*
+* Libraries and graphics
+* Drwa your spirit emoji
+* Let's code the Squirtle
+* Wartortle goes round and round
+* Circles, dots and colors
+* Some related modules and libraries for GUI and charts
+
+Assignment
+-------
+Code your own Pokedex! 
 
 ![Example Image][2]
 
@@ -56,21 +84,35 @@ Topics
 Topics
 ------
 
-*
+* HTML, CSS: What are those?
+* Tags, Styles and Formatting
+* Canvus, colors and images
+* 	- You are the CSS to my HTML, gaarl! 
+	- Give me a </br>, boii.
+* 	Code your website
+* 	Watch and share your website works live on Nerd Community
 
 ## Day6: Beaut Element - The CSS
 
 Topics
 ------
 
-*
+* -You're so pretty! 
+  - No it's just CSS.
+* CSS : Creating Styling Since....
+* CSS colors, texts, fonts, icons, images and what not
+* Beautify your own website
 
 ## Day7: Functions & Dictionaries - The Oracle
 
 Topics
 ------
 
-*
+* Dictionaries
+* Function your functions
+* Won't you compliment me?
+* Function your way from functions to functions
+* Okay google. Search recursion.
 
 ![Example Image][3]
 
