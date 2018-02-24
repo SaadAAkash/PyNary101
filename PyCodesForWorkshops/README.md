@@ -1,4 +1,4 @@
-# Hello, nerds!
+# Hello, nerds! :speech_balloon:
 
 Here goes all the codes discussed in the classes. If you haven't been able to get your hands dirty in the classes, make sure you go through the codes again and write codes.
 
@@ -6,7 +6,7 @@ Here goes all the codes discussed in the classes. If you haven't been able to ge
 
 [1]: https://media.boingboing.net/wp-content/uploads/2017/02/0d184219b7a5ab8e6c89cabef1372649c453fa3f_main_hero_image.jpg
 
-## Day1: Bits Please - The Intro
+## Day1: Bits Please - The Intro :bowtie:
 
 Topics
 ------
@@ -23,10 +23,10 @@ Topics
 
 Assignment
 -------
-Say Something I'm giving up on you!
+Say Something I'm giving up on you! :notes:
 
 
-## Day2: How did the unsinkable Titanic sink - The Logic
+## Day2: How did the unsinkable Titanic sink - The Logic :broken_heart:
 
 Topics
 ------
@@ -41,9 +41,9 @@ Topics
 
 Assignment
 -------
-Be the Logical Sheldon Cooper!
+Be the Logical Sheldon Cooper! :joy:
 
-## Day3: Stuck in the Loop - The Ring
+## Day3: Stuck in the Loop - The Ring :ring:
 
 Topics
 ------
@@ -57,9 +57,9 @@ Topics
 
 Assignment
 -------
-The dooms door game!
+The dooms door game! :door:
 
-## Day4:  Gotta catch 'em all - The Pokemon
+## Day4:  Gotta catch 'em all - The Pokemon :no_entry:
 
 Topics
 ------
@@ -73,13 +73,13 @@ Topics
 
 Assignment
 -------
-Code your own Pokedex! 
+Code your own Pokedex! :vibration_mode:
 
 ![Example Image][2]
 
 [2]: https://studyopedia.com/wp-content/uploads/2017/09/Learn-Python.png
 
-## Day5: How To Meet Ladies - The HTML
+## Day5: How To Meet Ladies - The HTML :love_letter:
 
 Topics
 ------
@@ -89,14 +89,14 @@ Topics
 * Canvus, colors and images
 * 	- You are the CSS to my HTML, gaarl! 
 	- Give me a "</br>", boii.
-* 	Code your website
-* 	Watch and share your website works live on Nerd Community
+* Code your website
+* Watch and share your website works live on Nerd Community
 
 Assignment
 -------
-Remember, remember! The 5th of November!
+Remember, remember! The 5th of November! :clock5:
 
-## Day6: Beaut Element - The CSS
+## Day6: Beaut Element - The CSS :dancer:
 
 Topics
 ------
@@ -109,9 +109,9 @@ Topics
 
 Assignment
 -------
-Remember, remember! The 5th of November: BETA! :v:
+Remember, remember! The 5th of November: BETA! :nail_care:
 
-## Day7: Functions & Dictionaries - The Oracle
+## Day7: Functions & Dictionaries - The Oracle :crown:
 
 Topics
 ------
@@ -124,22 +124,22 @@ Topics
 
 Assignment
 -------
-A not-so-exciting adventure game!
+A not-so-exciting adventure game! :video_game:
 
-## Day8: Text like Julias - The Julias Caeser
+## Day8: Text like Julias - The Julias Caeser :thought_balloon:
 
 Topics
 ------
-Introduction to Cryptography and Cryptanalysis 
-Basic Terminologies, Encryption and Decryption
-Making Paper Cryptography tools and how to use them
-Learning Cypher technique from Julius Caesar 
-Code encryption and decryption
-Code caeser cypher
+* Introduction to Cryptography and Cryptanalysis 
+* Basic Terminologies, Encryption and Decryption
+* Making Paper Cryptography tools and how to use them
+* Learning Cypher technique from Julius Caesar 
+* Code encryption and decryption
+* Code caeser cypher
 
 Assignment
 -------
-Avengers, Assemble!
+Avengers, Assemble! :godmode:
 	
 ![Example Image][3]
 
