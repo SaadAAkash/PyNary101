@@ -1,29 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome People!
 
-You can use the [editor on GitHub](https://github.com/SaadAAkash/PyStuffsForNC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Explore all the codes, code resources and lecture materials for the students of Nerd Community!
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](https://behapy.s3.amazonaws.com/40/32/504032/default.jpg) and ![Image](That's Right!)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
