@@ -92,6 +92,10 @@ Topics
 * 	Code your website
 * 	Watch and share your website works live on Nerd Community
 
+Assignment
+-------
+Remember, remember! The 5th of November!
+
 ## Day6: Beaut Element - The CSS
 
 Topics
@@ -102,6 +106,10 @@ Topics
 * CSS : Creating Styling Since....
 * CSS colors, texts, fonts, icons, images and what not
 * Beautify your own website
+
+Assignment
+-------
+Remember, remember! The 5th of November: BETA! :v:
 
 ## Day7: Functions & Dictionaries - The Oracle
 
@@ -114,6 +122,25 @@ Topics
 * Function your way from functions to functions
 * Okay google. Search recursion.
 
+Assignment
+-------
+A not-so-exciting adventure game!
+
+## Day8: Text like Julias - The Julias Caeser
+
+Topics
+------
+Introduction to Cryptography and Cryptanalysis 
+Basic Terminologies, Encryption and Decryption
+Making Paper Cryptography tools and how to use them
+Learning Cypher technique from Julius Caesar 
+Code encryption and decryption
+Code caeser cypher
+
+Assignment
+-------
+Avengers, Assemble!
+	
 ![Example Image][3]
 
 [3]: https://udemy-images.udemy.com/course/480x270/426570_1b91_3.jpg
