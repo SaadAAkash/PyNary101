@@ -7,7 +7,10 @@ Explore all the codes, code resources and lecture materials for the students of 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-[Link](https://behapy.s3.amazonaws.com/40/32/504032/default.jpg) and ![Image](That's Right!)
+![Example Image][1]
+
+[1]: https://media.boingboing.net/wp-content/uploads/2017/02/0d184219b7a5ab8e6c89cabef1372649c453fa3f_main_hero_image.jpg
+[Link](https://behapy.s3.amazonaws.com/40/32/504032/default.jpg) and ![Image](Link)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
