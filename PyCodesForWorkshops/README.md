@@ -109,7 +109,7 @@ Topics
 
 Assignment
 -------
-Remember, remember! The 5th of November: BETA! :nail_care:
+Code your own Meme Generator! :trollface:
 
 ## Day7: Functions & Dictionaries - The Oracle :crown:
 
